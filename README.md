@@ -47,3 +47,4 @@ Select your instance → Instance State → Terminate.
 ![435986414-66f22dd1-9089-41c1-932a-c8f25dfed325](https://github.com/user-attachments/assets/2580b131-7221-41fa-83df-08401452b791)
 
 ## result
+Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
